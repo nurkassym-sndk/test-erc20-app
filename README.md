@@ -44,6 +44,10 @@ The application provides core token functionalities such as **checking balances,
 GET /docs
 ```
 
+<img src="./assets/swagger_docs.png" alt="your-image-description" style="border: 0.05rem solid  teal; background-color: white;">
+<div style='text-align: center; margin: -2px 15px 15px 15px'>
+</div>
+
 ___
 
 Configuration Settings
